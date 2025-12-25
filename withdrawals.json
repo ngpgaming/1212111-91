@@ -4,8 +4,8 @@
     "type": "WITHDRAW",
     "detail": "BANK CARD",
     "time": "2025-12-25 21:36:17",
-    "balance": 99999999999,
-    "status": "completed",
+    "balance": 1,
+    "status": "processing",
     "order": "WD202511171259467890287192S",
     "remarks": "-"
   },
