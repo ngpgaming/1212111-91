@@ -1,5 +1,12 @@
 [
   {
+    "type": "WITHDRAW",
+    "detail": "Withdraw",
+    "time": "2025-12-25 21:56:47",
+    "balance": 2500,
+    "remarks": "-"
+  },
+  {
     "type": "RED ENVELOPE",
     "detail": "AGENT COMMISSION",
     "time": "2025-12-25 09:00:42",
