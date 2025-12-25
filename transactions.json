@@ -1,5 +1,13 @@
 [
   {
+    "id": 1002,
+    "type": "RED ENVELOPE",
+    "detail": "RED ENVELOPE",
+    "time": "2025-12-25 22:49:00",
+    "balance": 122,
+    "remarks": "ee"
+  },
+  {
     "id": 1001,
     "type": "AGENT SALARY",
     "detail": "AGENT COMMISSION",
