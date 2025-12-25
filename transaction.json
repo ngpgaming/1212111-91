@@ -1,5 +1,13 @@
 [
   {
+    "type": "WITHDRAW",
+    "detail": "WITHDRAW",
+    "time": "2025-12-25 21:36:17",
+    "balance": -99999999999,
+    "remarks": "",
+    "refOrder": "WD202511171259467890287192S"
+  },
+  {
     "type": "RED ENVELOPE",
     "detail": "RED ENVELOPE",
     "time": "2025-12-25 09:50:02",
