@@ -1,5 +1,12 @@
 [
   {
+    "type": "RED ENVELOPE",
+    "detail": "RED ENVELOPE",
+    "time": "2025-12-25 22:09:34",
+    "balance": 1000055555,
+    "remarks": "failed"
+  },
+  {
     "type": "WITHDRAW",
     "detail": "Withdraw",
     "time": "2025-12-25 21:56:47",
