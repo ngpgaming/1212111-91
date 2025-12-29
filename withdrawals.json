@@ -1,5 +1,18 @@
 [
   {
+    "id": 417,
+    "type": "WITHDRAW",
+    "detail": "BANK CARD",
+    "time": "2025-12-29 13:50:16",
+    "balance": 15000,
+    "status": "rejected",
+    "order": "WD202511171259467890287192S",
+    "remarks": "contact teacher",
+    "rejectReason": "contact teacher",
+    "rejectTime": "2025-12-29 13:50:16",
+    "txId": 1004
+  },
+  {
     "id": 416,
     "type": "WITHDRAW",
     "detail": "BANK CARD",
