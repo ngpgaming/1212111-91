@@ -1,5 +1,18 @@
 [
   {
+    "id": 418,
+    "type": "WITHDRAW",
+    "detail": "BANK CARD",
+    "time": "2025-12-29 14:12:02",
+    "balance": 25000,
+    "status": "rejected",
+    "order": "WD202511171259467890287192S",
+    "remarks": "CANCEL",
+    "rejectReason": "CANCEL",
+    "rejectTime": "2025-12-29 14:12:02",
+    "txId": 1004
+  },
+  {
     "id": 417,
     "type": "WITHDRAW",
     "detail": "BANK CARD",
