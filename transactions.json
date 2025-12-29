@@ -1,5 +1,13 @@
 [
   {
+    "id": 1006,
+    "type": "CANCEL WITHDRAWAL",
+    "detail": "CANCEL WITHDRAWAL",
+    "time": "2025-12-29 14:27:14",
+    "balance": 25000,
+    "remarks": "CANCEL"
+  },
+  {
     "id": 1005,
     "type": "WITHDRAW",
     "detail": "WITHDRAW",
