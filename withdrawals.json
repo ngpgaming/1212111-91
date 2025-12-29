@@ -1,5 +1,18 @@
 [
   {
+    "id": 420,
+    "type": "WITHDRAW",
+    "detail": "USDT",
+    "time": "2025-12-29 16:30:20",
+    "balance": 15000,
+    "status": "rejected",
+    "order": "WD202511171259467890287192S",
+    "remarks": "Withdrawal failed. Please update your ifsc code",
+    "rejectReason": "Withdrawal failed. Please update your ifsc code",
+    "rejectTime": "2025-12-29 16:30:20",
+    "txId": 1007
+  },
+  {
     "id": 419,
     "type": "WITHDRAW",
     "detail": "BANK CARD",
